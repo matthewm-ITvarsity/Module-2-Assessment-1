@@ -11,7 +11,7 @@ body{
      z-index : 500;
      width   :100%;
      height  :80px;
-     background-image  : url('images/wood-bg.png');
+     background-image  : url('Images/wood-bg.png');
      background-repeat: repeat-x;
 }
 
@@ -86,7 +86,7 @@ body{
     padding    : 0;
     margin-top: 119px;
     font-family: Helvetica;
-    background: url("images/map-blur.png");
+    background: url("Images/map-blur.png");
 }
 
 #content{
